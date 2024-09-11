@@ -1526,5 +1526,15 @@
         "WingtipOffset": 10.5
       }
     }
+    "Pteryxis": {
+      "Original": {
+        "Name": "FunTimeGuaVali",
+        "Creator": "FunTimeExe",
+        "Introducer": "Angiethekirin",
+        "Hash": ["-1218197994v2"],
+        "Weight": 1,
+        "WingtipOffset": 1.53
+      }
+    },
   }
 }
